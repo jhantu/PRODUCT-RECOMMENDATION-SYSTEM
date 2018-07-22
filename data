@@ -1,0 +1,9 @@
+# data file info: 
+use simple code using api to get the data from the amazon AWS.
+
+Here we will use the not show you how to get the data.
+use can use directly downloaded data from kaggle if you want, for any type of prodcut for
+you own project.
+
+data file is containing all the info about the each and every prodct.
+we will use only few feature(7) to find the similar iteams.
